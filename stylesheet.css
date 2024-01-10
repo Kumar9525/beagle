@@ -1,0 +1,64 @@
+#first{
+    height: 661px;
+    top: 47px;
+    left: 38px;
+    border: 2px solid #000000;    
+}
+h1{
+    font-family: inter;
+    font-Weight: 700;
+    font-size: 64px;
+    line-height: 77.45px;
+    text-decoration: underline;
+}
+p{
+    font-family: inter;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48.41px;    
+}
+b{
+    font-family: inter;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48.41px; 
+    font-style: italic;
+}
+a{
+    font-family: inter;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38.73px;
+    text-decoration: underline;
+    color: #000000;
+
+}
+.inner-div{   
+    height: 613.54px;
+    margin-top: 94.46px;
+    margin-left: 89px;
+}
+#image{
+    width: 1051px;
+    height: 894px;
+    top: 742px;
+    left: 58px;
+}
+img{
+    width: 1051px;
+    height: 762px;
+    top: 874px;
+    left: 58px;
+}
+#trivia h1{
+    font-family: Inter;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 77.45px
+}
+li{
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48.41px;
+}
